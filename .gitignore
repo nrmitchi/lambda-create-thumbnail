@@ -1,0 +1,44 @@
+#######################
+#     Directories     #
+#######################
+
+temp
+dist
+biuld
+
+lib-cov
+
+#######################
+#  Package Managers   #
+#######################
+npm-debug.log
+node_modules
+public/public/components
+
+#######################
+#   RandomAss Files   #
+#######################
+
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+.sass-cache
+.tmp/
+
+*.sublime-workspace
+.idea/
+
+data/environment
+
+.vagrant/
+
+newrelic_agent.log
